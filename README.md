@@ -1,5 +1,5 @@
 # Discord-UserID-to-Date
-Convert a user ID to a date object
+A simple function to convert a discord user ID to a date object
 
 Example
 ```js
